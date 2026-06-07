@@ -6,7 +6,7 @@
 
 ## Русская Версия
 
-> ⚠️ **ВНИМАНИЕ:** Антивирусы и Защитник Windows могут ложно срабатывать на утилиту из-за её работы с системным реестром и службами. Это ложное срабатывание. При необходимости добавьте файл в исключения вашего антивируса.
+> ⚠️ **ВНИМАНИЕ:** Антивирусы и Защитник Windows могут ложно срабатывать на утилиту из-за её работы с системным реестром и службами. Это ложное срабатывание. При необходимости добавьте файл в исключения вашего антивируса или скачайте D1x2k_Tool.bat (Запускать от имени администратора).
 
 **[D1x2k Tool]** — это легковесная, полностью автоматизированная консольная утилита, созданная для быстрой настройки и управления лицензированием операционных систем Windows и офисных пакетов Microsoft Office в локальной сети компании.
 
@@ -35,7 +35,7 @@
 
 ## English Version
 
-> ⚠️ **ATTENTION:** Antivirus software and Windows Defender may flag this utility due to its interaction with the system registry and services. This is a false positive flag. If necessary, add the file to your antivirus exclusions list.
+> ⚠️ **ATTENTION:** Antivirus software and Windows Defender may flag this utility due to its interaction with the system registry and services. This is a false positive flag. If necessary, add the file to your antivirus exclusions list or download D1x2k_Tool.bat (Run as administrator).
 
 **[D1x2k Tool]** is a lightweight, fully automated console utility designed for quick configuration and deployment of Windows and Microsoft Office licensing solutions within a local corporate network.
 
