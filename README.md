@@ -15,12 +15,9 @@
 * **Интерфейс:** Строгий консольный стиль с защитой от случайных нажатий клавиатуры и встроенной функцией перезапуска Проводника Windows.
 
 ### 🚀 Как запустить утилиту
-> ⚠️ **Важно:** Для корректного взаимодействия с системными службами лицензирования (`slmgr.vbs`), утилиту необходимо запускать строго с правами суперадминистратора.
-
 1. Перейдите в раздел **[Releases]** в правой части страницы и скачайте актуальную версию программы.
-2. Кликните правой кнопкой мыши по файлу `D1x2k_Tool.exe`.
-3. Выберите пункт **«Запуск от имени администратора»**.
-4. В открывшемся главном меню выберите нужный режим работы (цифры `1`, `2` или `3`).
+2. Запустите файл `D1x2k_Tool.exe`.
+3. В открывшемся главном меню выберите нужный режим работы (цифры `1`, `2` или `3`).
 
 ### 📦 Структура репозитория
 * `/Source` — Оригинальный исходный код командного скрипта.
@@ -43,12 +40,9 @@
 * **UI Design:** Rigid console-style layout with key-press filtering and an integrated Windows Explorer restart routine.
 
 ### 🚀 How to Run the Utility
-> ⚠️ **Important:** To ensure proper interaction with system licensing services (`slmgr.vbs`), the utility must be executed with full administrator privileges.
-
 1. Go to the **[Releases]** section on the right side of this page and download the latest build.
-2. Right-click on the `D1x2k_Tool.exe` file.
-3. Select **"Run as administrator"**.
-4. Choose the desired operation mode from the main menu (press keys `1`, `2`, or `3`).
+2. Run the `D1x2k_Tool.exe` file.
+3. Choose the desired operation mode from the main menu (press keys `1`, `2`, or `3`).
 
 ### 📦 Repository Structure
 * `/Source` — The original source code of the batch script.
