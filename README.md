@@ -6,7 +6,7 @@
 
 ## Русская Версия
 
-> ⚠️ **ВНИМАНИЕ:** Антивирусы и Защитник Windows могут ложно срабатывать на утилиту из-за её работы с системным реестром и службами. Это ложное срабатывание. При необходимости добавьте файл в исключения вашего антивируса.
+> ⚠️ **ВНИМАНИЕ:** Антивирусы и Защитник Windows могут ложно срабатывать на утилиту из-за её работы с системным реестром и службами. Это ложное срабатывание (False Positive). При необходимости добавьте файл в исключения вашего антивируса.
 
 **[D1x2k Tool]** — это легковесная, полностью автоматизированная консольная утилита, созданная для быстрой настройки и управления лицензированием операционных систем Windows и офисных пакетов Microsoft Office в локальной сети компании.
 
@@ -19,8 +19,8 @@
 * **Интерфейс:** Строгий консольный стиль с защитой от случайных нажатий клавиатуры и встроенной функцией перезапуска Проводника Windows.
 
 ### 🚀 Как запустить утилиту
-1. Перейдите в раздел **[Releases]** в правой части страницы и скачайте актуальную версию программы или нажмите на кнопку «Скачать утилиту».
-2. Запустите файл `D1x2k_Tool.exe`.
+1. Перейдите в раздел **[Releases]** в правой части страницы и скачайте актуальную версию программы или нажмите на кнопку «Скачать утилиту». На выбор доступен exe файл и файл .bat.
+2. Запустите файл `D1x2k_Tool.bat` от имени администратора или `D1x2k_Tool.exe`.
 3. В открывшемся главном меню выберите нужный режим работы (цифры `1`, `2` или `3`).
 
 ### 📦 Структура репозитория
@@ -48,8 +48,8 @@
 * **UI Design:** Rigid console-style layout with key-press filtering and an integrated Windows Explorer restart routine.
 
 ### 🚀 How to Run the Utility
-1. Go to the **[Releases]** section on the right side of this page and download the latest build, or click the "Download Utility" button.
-2. Run the `D1x2k_Tool.exe` file.
+1. Go to the **[Releases]** section on the right side of this page and download the latest build, or click the "Download Utility" button. Both .exe and .bat files are available for your choice.
+2. Run the `D1x2k_Tool.bat` file as administrator, or run `D1x2k_Tool.exe`.
 3. Choose the desired operation mode from the main menu (press keys `1`, `2`, or `3`).
 
 ### 📦 Repository Structure
