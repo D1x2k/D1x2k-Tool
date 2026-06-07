@@ -8,6 +8,8 @@
 
 **[D1x2k Tool]** — это легковесная, полностью автоматизированная консольная утилита, созданная для быстрой настройки и управления лицензированием операционных систем Windows и офисных пакетов Microsoft Office в локальной сети компании.
 
+[![Скачать утилиту](https://img.shields.io/badge/Скачать_утилиту-📦-blue?style=for-the-badge&logo=github)](../../releases)
+
 ### 🔥 Основные возможности
 * **Полная автоматизация:** Автоматический сброс старых KMS-привязок, очистка кэша лицензий и перезапуск системных служб.
 * **Умная установка Office:** Если в системе не обнаружен Microsoft Office, утилита сама развернет официальный пакет **Microsoft Office 2021 Pro Plus (x64)** напрямую со шлюзов Microsoft.
@@ -32,6 +34,8 @@
 ## English Version
 
 **[D1x2k Tool]** is a lightweight, fully automated console utility designed for quick configuration and deployment of Windows and Microsoft Office licensing solutions within a local corporate network.
+
+[![Download Utility](https://img.shields.io/badge/Download_Utility-📦-blue?style=for-the-badge&logo=github)](../../releases)
 
 ### 🔥 Key Features
 * **Full Automation:** Automatic reset of legacy KMS bindings, license cache cleanup, and background restart of system services.
