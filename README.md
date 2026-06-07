@@ -1,10 +1,10 @@
-# 🛠️ D1x2k Tool (Версия 2026)
+# D1x2k Tool (Version 2026)
 
-[English Version](#-d1x2k-tool-version-2026) | [Русская Версия](#-d1x2k-tool-версия-2026)
+[English Version](#english-version) | [Русская Версия](#русская-версия)
 
 ---
 
-## 🇷🇺 Русская Версия
+## Русская Версия
 
 **[D1x2k Tool]** — это легковесная, полностью автоматизированная консольная утилита, созданная для быстрой настройки и управления лицензированием операционных систем Windows и офисных пакетов Microsoft Office в локальной сети компании.
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 🇺🇸 English Version
+## English Version
 
 **[D1x2k Tool]** is a lightweight, fully automated console utility designed for quick configuration and deployment of Windows and Microsoft Office licensing solutions within a local corporate network.
 
